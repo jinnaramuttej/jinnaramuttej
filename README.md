@@ -1,118 +1,112 @@
 <h1 align="center">Hi 👋, I'm Jinnaram Uttej</h1>
-<h3 align="center">Student Developer from Malla Reddy University</h3>
+<h3 align="center">Student Developer | Malla Reddy University</h3>
 
 <p align="center">
-Passionate about building technology that solves real-world problems using modern web and AI tools.
+Building impactful software using modern web technologies and AI.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **1st year student at Malla Reddy University** who enjoys building practical software and experimenting with new technologies.  
-My main interest lies in **web development, intelligent systems, and building platforms that create real-world impact**.
+🎓 First-year student at **Malla Reddy University**
 
-I enjoy taking ideas from **concept → design → working product**, and most of my projects revolve around solving social or educational problems using technology.
+💡 I enjoy building real-world platforms that combine **web development and intelligent systems**
 
-Currently I’m focusing on:
-
-• Building **AI-powered platforms and web applications**  
-• Learning deeper **full-stack architecture and scalable systems**  
-• Exploring **machine learning applications in healthcare and education**
+🚀 Currently focused on:
+- Full Stack Development with **React & Next.js**
+- Building **AI-powered platforms**
+- Learning scalable backend systems
 
 ---
 
 ## 🚀 Current Projects
 
-### 🧠 Cognify (AI Learning Platform)
-Cognify is an intelligent learning platform designed to improve how students practice and revise concepts.  
-The system analyzes mistakes made by students and automatically generates **personalized follow-up questions** to strengthen weak areas.
+### 🧠 Cognify
+An intelligent learning platform that analyzes students’ mistakes and automatically generates personalized follow-up practice questions.
 
 Goal: Build a **smart adaptive learning system** that improves study efficiency.
 
 ---
 
 ### 🩸 Blood Donor Platform
-A web platform designed to help people **quickly find blood donors during emergencies**.
-
-Features include:
-
-• Donor search based on **blood group and location**  
-• Easy contact between donor and patient  
-• A simple interface that allows quick access during urgent situations
+A web platform designed to help people quickly **find blood donors during emergencies** based on blood group and location.
 
 ---
 
-### 🧠 Parkinson’s Disease Detection
-A machine learning based project designed to **detect Parkinson’s disease using medical data analysis**.
+### 🧠 Parkinson's Disease Detection
+A machine learning based project designed to **detect Parkinson's disease using medical data analysis**.
 
-The system processes patient information and predicts potential indicators of Parkinson's, helping support **early detection and awareness**.
+The system analyzes patient data to help support **early diagnosis and awareness**.
 
 ---
 
 ### 🌾 Gramodaya – Smart Village Platform
-Gramodaya is a digital platform aimed at supporting **smart village development**.
-
-The platform focuses on:
-
-• Improving access to **local services and information**  
-• Providing digital solutions for **community and rural development**  
-• Connecting villagers with useful resources and opportunities
+A platform aimed at supporting **digital village development** by connecting communities with services, information, and opportunities.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
-React  
-Next.js  
-HTML  
-CSS  
-JavaScript  
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,typescript" />
+</p>
 
 ### Backend
-Flask  
-Python  
 
-### Databases & Cloud
-MySQL  
-Supabase  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
+</p>
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,supabase" />
+</p>
 
 ### Tools & Platforms
-Git  
-GitHub  
-Vercel  
-VS Code  
-
----
-
-## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IND-Captain&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IND-Captain&layout=compact&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+# 📊 GitHub Stats
 
-• Advanced **Next.js architecture**  
-• **AI integration in web applications**  
-• Scalable backend design  
-• Building impactful real-world tech products
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=IND-Captain&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IND-Captain&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
-## 📫 Contact
+# 🔥 GitHub Streak
 
-Email: **jinnaramuttej@gmail.com**
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IND-Captain&theme=tokyonight" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+⚡ Advanced **Next.js architecture**
+
+⚡ AI integration in **web applications**
+
+⚡ Building scalable **full stack systems**
+
+---
+
+# 📫 Contact
+
+📧 Email: **jinnaramuttej@gmail.com**
 
 ---
 
 <p align="center">
-Building. Learning. Improving every day.
+Always learning. Always building.
 </p>
