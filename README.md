@@ -16,9 +16,9 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-jinnaramuttej%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:jinnaramuttej@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-IND--Captain-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/IND-Captain)
+[![GitHub](https://img.shields.io/badge/GitHub-jinnaramuttej-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/jinnaramuttej)
 &nbsp;
-![Views](https://komarev.com/ghpvc/?username=IND-Captain&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=jinnaramuttej&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)
 
 </div>
 
@@ -60,13 +60,13 @@ Learn Concept → Practice Test → Analyze Mistakes → Cogni AI Fixes Gaps →
 
 `Next.js 15` `TypeScript` `Supabase` `Groq API` `Gemini API` `shadcn/ui` `Docker` `Caddy`
 
-🔗 **[View Cognify →](https://github.com/IND-Captain/Cognify)**
+🔗 **[View Cognify →](https://github.com/jinnaramuttej/Cognify)**
 
 ---
 
 ## 📦 Shipped Projects
 
-### 🎙️ [Parkinson's Detection](https://github.com/IND-Captain/Parkinsons) — Voice AI + Healthcare ML
+### 🎙️ [Parkinson's Detection](https://github.com/jinnaramuttej/Parkinsons) — Voice AI + Healthcare ML
 
 Production web app that detects early Parkinson's risk through real-time voice analysis. Extracts acoustic biomarkers (MFCC, jitter, shimmer, HNR) and runs them through a trained **XGBoost classifier** with confidence-scored output.
 
@@ -84,7 +84,7 @@ Production web app that detects early Parkinson's risk through real-time voice a
 
 ---
 
-### 🩸 [Blood Donor Finder](https://github.com/IND-Captain/blooddonor) — Emergency Platform
+### 🩸 [Blood Donor Finder](https://github.com/jinnaramuttej/blooddonor) — Emergency Platform
 
 Full-stack Flask app for real-time blood donor discovery by blood group + location. Speed is the only design constraint.
 
@@ -112,21 +112,21 @@ Full-stack Flask app for real-time blood donor discovery by blood group + locati
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IND-Captain&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Uttej's+Stats&card_width=420" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=jinnaramuttej&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Uttej's+Stats&card_width=420" height="160" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IND-Captain&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnaramuttej&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=IND-Captain&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://streak-stats.demolab.com?user=jinnaramuttej&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=IND-Captain&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=jinnaramuttej&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=4" />
 
 </div>
 
