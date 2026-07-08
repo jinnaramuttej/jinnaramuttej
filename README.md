@@ -1,8 +1,20 @@
+oni too
+
+Here's your updated README:
+
+
+Create updated README
+Create updated README
+
+Create updated README
+bash
+
+cat > /home/claude/README.md << 'ENDOFFILE'
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1f3d,100:0d1117&height=180&section=header&text=Jinnaram%20Uttej&fontSize=44&fontColor=ffffff&fontAlignY=50&fontAlign=50&desc=CS%20%C2%B7%20Data%20Science%20%C2%B7%20Malla%20Reddy%20University&descAlignY=70&descSize=15&descColor=58A6FF&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Founder+of+Cognify+%E2%80%94+AI+exam+prep+for+JEE+%2F+NEET+%2F+BITSAT;Built+Arogya+%E2%80%94+a+full+digital+health+OS+with+Firebase;1st+Yr+CS+%7C+Data+Science+%7C+5+shipped+products;Next.js+%C2%B7+TypeScript+%C2%B7+Firebase+%C2%B7+Groq+%C2%B7+XGBoost)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+Oni+%E2%80%94+AI+website+builder+for+Indian+small+businesses;Founder+of+Cognify+%E2%80%94+AI+exam+prep+for+JEE+%2F+NEET+%2F+BITSAT;2nd+Yr+CS+%7C+Data+Science+%7C+6%2B+shipped+products;Next.js+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Groq+%C2%B7+XGBoost)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,9 +30,53 @@
 
 ## About Me
 
-I'm Uttej — a first-year CS student specializing in **Data Science**. I build products that solve problems I actually care about. Every project is a step up from the last: static HTML → Flask → Firebase → ML models → now a full AI startup with adaptive testing, an LLM tutor, and a real database architecture.
+I'm Uttej — a second-year CS student specializing in **Data Science** at Malla Reddy University, Hyderabad. I build products that solve real problems for real people.
+
+Right now I'm focused on **Oni** — an AI website builder for Indian small businesses. The kind of restaurant owner, salon, or clinic that needs a professional website but can't afford a ₹50,000 agency and can't figure out Wix. Oni generates a complete, beautiful, fully animated website in 15 seconds from a plain English description.
 
 I don't wait to feel ready. I ship, break things, and figure it out.
+
+---
+
+## 🌐 Oni — *AI Website Builder for Indian SMBs*
+
+> *Describe it. Ship it.*
+
+**Oni** generates complete, production-ready websites in 15 seconds from a natural language prompt. Built for the 63 million small businesses in India where less than 20% have a website.
+
+### How It Works
+
+```
+User types: "Make me a restaurant website for Dakshin in Hyderabad"
+                              ↓
+              Oni asks 5 smart brand questions
+                              ↓
+              AI generates complete HTML + CSS + JS
+                              ↓
+              Live preview appears in real time
+                              ↓
+        User edits via chat · Downloads ZIP · Publishes live
+```
+
+### What's Built
+
+| Feature | What it does |
+|---|---|
+| 🤖 **AI Generation** | Groq + Llama 3.3 70B · Generates complete single-file websites in 15 seconds |
+| 💬 **Conversational Intake** | Asks brand-specific questions before generating · business name, colors, tone, location |
+| 👁 **Live Preview** | Streams HTML token by token · renders in real-time iframe as AI generates |
+| ✏️ **Chat Editing** | "Make the hero darker" · "Add a pricing section" · instant updates |
+| 📦 **ZIP Download** | Complete source code download · edit in any IDE |
+| 🎨 **20 Premium Templates** | Restaurant, salon, clinic, gym, portfolio, SaaS, law firm and more |
+| 🧠 **Brand Memory** | Saves your business context · follow-up edits maintain brand identity |
+| 📊 **Analytics** (coming) | Visitor tracking · SEO rankings · AI insights · "your site ranks #4 today" |
+| 🔗 **GitHub Push** (coming) | Push generated code directly to your repo · auto-deploy via Vercel |
+
+**The output looks like a ₹50,000 agency build. The price is ₹499/month.**
+
+`Next.js 15` `TypeScript` `Supabase` `Groq API` `Llama 3.3 70B` `Tailwind CSS` `Vercel`
+
+🔗 **[View Oni →](https://github.com/jinnaramuttej/Oni)**
 
 ---
 
@@ -56,22 +112,35 @@ Learn Concept → Practice Test → Analyze Mistakes → Cogni AI Fixes Gaps →
 
 ---
 
-## 📦 Shipped Projects
+## ⚡ Delta — *AI Founder OS* · *IIT Hyderabad Hackathon*
+
+An AI operating system for solo founders. Four specialized agents — Hiring, Finance, Legal, GTM — that handle the non-technical work of running a startup. Built in 36 hours at a national-level hackathon.
+
+| Agent | What it does |
+|---|---|
+| 👥 **Hiring Agent** | Job descriptions · candidate screening · offer letters |
+| 💰 **Finance Agent** | Expense tracking · invoice templates · basic P&L |
+| ⚖️ **Legal Agent** | Vendor agreements · privacy policies · NDAs |
+| 📣 **GTM Agent** | Marketing copy · launch strategy · ad copy |
+
+`Next.js` `TypeScript` `Supabase` `Ollama` `Tailwind CSS`
+
+---
+
+## 📦 More Shipped Projects
 
 ### 🏥 [Arogya](https://github.com/jinnaramuttej/Arogya) — Digital Health Super-App
 
-A full-stack healthcare platform built on Firebase with real-time multi-role coordination. Not a mockup — a working system.
+A full-stack healthcare platform built on Firebase with real-time multi-role coordination.
 
 | Module | What it does |
 |---|---|
-| 🚨 **Emergency Dispatch** | Pulsing SOS · Live Leaflet map · Separate role views for ambulance driver, hospital & police |
+| 🚨 **Emergency Dispatch** | Pulsing SOS · Live Leaflet map · Separate role views for ambulance, hospital & police |
 | 🤖 **AI Symptom Checker** | Symptom → diagnosis → specialist routing |
 | 🩺 **Telemedicine** | Video doctor consultations |
 | 💊 **Pharmacy + Tracking** | Medicine ordering with live order tracking |
 | 🩸 **Blood Donor Network** | Real-time donor discovery by blood group + location |
 | 📋 **Digital Prescriptions** | Doctor-issued, patient-stored |
-| 📊 **Health Dashboard** | Personal health analytics and records |
-| 👥 **Admin Layer** | Full user management + platform analytics |
 
 Multilingual: English · हिंदी · తెలుగు
 
@@ -81,7 +150,7 @@ Multilingual: English · हिंदी · తెలుగు
 
 ### 🎙️ [Parkinson's Detection](https://github.com/jinnaramuttej/Parkinsons) — Voice AI + Healthcare ML
 
-Production web app that detects early Parkinson's risk through real-time voice analysis. Extracts acoustic biomarkers (MFCC, jitter, shimmer, HNR) and runs them through a trained **XGBoost classifier** with confidence-scored output.
+Production web app that detects early Parkinson's risk through real-time voice analysis. Extracts acoustic biomarkers (MFCC, jitter, shimmer, HNR) and runs them through a trained **XGBoost classifier**.
 
 `Next.js 15` `TypeScript` `Python` `XGBoost` `scikit-learn` `Web Audio API` `Docker`
 &nbsp;&nbsp;🎥 [Video walkthrough](https://1drv.ms/v/c/49141525414c6d11/IQBi8VFL3Cs-T6R32L6I37YXATpQIFfr4SHIHd-fpGWtFlc)
@@ -123,8 +192,6 @@ Full-stack Flask app for real-time blood donor discovery by blood group + locati
 
 ## 📊 GitHub Stats
 
-
-
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jinnaramuttej&theme=github-dark-blue&hide_border=true)
@@ -141,10 +208,12 @@ Full-stack Flask app for real-time blood donor discovery by blood group + locati
 
 <div align="center">
 
-<sub>Building Cognify. Open to hackathons, collabs, and problems worth solving.</sub>
+<sub>Building Oni. Open to hackathons, collabs, and problems worth solving.</sub>
 <br/>
 <sub><a href="mailto:jinnaramuttej@gmail.com">jinnaramuttej@gmail.com</a></sub>
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1f3d,100:0d1117&height=80&section=footer" width="100%" />
 
 </div>
+ENDOFFILE
+echo "Done"
