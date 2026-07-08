@@ -100,7 +100,7 @@ Learn Concept → Practice Test → Analyze Mistakes → Cogni AI Fixes Gaps →
 
 ---
 
-## ⚡ Delta — *AI Founder OS* · 
+## ⚡ Delta — *AI Founder OS* 
 
 An AI operating system for solo founders. Four specialized agents — Hiring, Finance, Legal, GTM — that handle the non-technical work of running a startup. Built in 36 hours at a national-level hackathon.
 
@@ -182,10 +182,7 @@ Full-stack Flask app for real-time blood donor discovery by blood group + locati
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=jinnaramuttej&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Streak"
-/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=jinnaramuttej&theme=github-dark-blue&hide_border=true)
 
 </div>
 
