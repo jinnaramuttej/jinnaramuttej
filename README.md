@@ -1,15 +1,3 @@
-oni too
-
-Here's your updated README:
-
-
-Create updated README
-Create updated README
-
-Create updated README
-bash
-
-cat > /home/claude/README.md << 'ENDOFFILE'
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1f3d,100:0d1117&height=180&section=header&text=Jinnaram%20Uttej&fontSize=44&fontColor=ffffff&fontAlignY=50&fontAlign=50&desc=CS%20%C2%B7%20Data%20Science%20%C2%B7%20Malla%20Reddy%20University&descAlignY=70&descSize=15&descColor=58A6FF&animation=fadeIn" width="100%" />
@@ -215,5 +203,3 @@ Full-stack Flask app for real-time blood donor discovery by blood group + locati
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1f3d,100:0d1117&height=80&section=footer" width="100%" />
 
 </div>
-ENDOFFILE
-echo "Done"
